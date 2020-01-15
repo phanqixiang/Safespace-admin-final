@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AdminSafeSpace</string>
+    <string name="operator">Operator</string>
+    <string name="login">Login</string>
+    <string name="livechat">Livechat</string>
+    <string name="livechat_description">Offer emotional support to those who are in need</string>
+    <string name="report_description">Investigate victim report</string>
+    <string name="victim_report">Victim Report</string>
+    <string name="livechat_appreciation">With chat emotional support, together we are building a healthy and happy community !</string>
+    <string name="title">Title :</string>
+    <string name="choose_file">Choose File</string>
+    <string name="upload">Upload</string>
+    <string name="image_desc">imageDesc</string>
+    <string name="description">Description :</string>
+</resources>
